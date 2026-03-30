@@ -1,0 +1,12 @@
+---------------------------------------
+   Open Source Manifesto
+---------------------------------------
+Author : codespace
+Date   : 30 March 2026
+
+I believe in the power of open source and the idea of happiness.
+Using tools like linux, I experience collaboration, transparency, and innovation.
+I aspire to build and freely share machines so that others can learn, grow, and contribute.
+Open source is not just about code, but about community and shared progress.
+
+---------------------------------------
